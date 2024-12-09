@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hetvi Patel</h1>
 <h3 align="center">Currently in 2nd year of Computer Engineering from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hetvigpatel&label=Profile%20views&color=0e75b6&style=flat" alt="hetvigpatel" /> </p>
+
 
 - 🌱 I’m currently learning **Spring Boot**
 
