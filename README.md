@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Spring Boot** and **Javascript**
+
 
 - 📫 How to reach me **hetvigpatel31@gmail.com**
 
